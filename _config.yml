@@ -14,7 +14,7 @@ name                     : &name "Lu Tan"
 description              : &description "study air quality/Ph.D. candidate at the UM"
 url                      : https://lutan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "jinlx/jinlx.github.io"
+repository               : "lulutan0122/lutan.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -56,7 +56,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : Lixu_Jin
+  username               : 
 facebook:
   username               :
   app_id                 :
@@ -79,14 +79,14 @@ analytics:
 
 # Site Author
 author:
-  name             : "Lixu Jin (金理旭)"
+  name             : "Lu Tan (谭璐)"
   avatar           : "profile.png"
-  bio              : "A good listener, fair chef, and bad singer"
+  bio              : 
   location         : "Missoula, MT"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            : lixu.jin@umconnect.umt.edu
+  email            : lu.tan@umontana.edu
   researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -95,7 +95,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "jinlx"
+  github           : "lulutan0122"
   google_plus      :
   keybase          :
   instagram        :
@@ -108,7 +108,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "Lixu_Jin"
+  twitter          : 
   vine             :
   weibo            :
   xing             :
