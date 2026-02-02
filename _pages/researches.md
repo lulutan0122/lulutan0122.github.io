@@ -6,60 +6,52 @@ author_profile: true
 
 ## Overall
 My research aims to improve how ?. My Ph.D. work at the University of Montana (Atmospheric Chemistry Observations and Modeling Group) focused on improving PTR-MS for VOC quantification and emissions of prescribed burns.
+**quantitative characterization of volatile organic compounds (VOCs) in the atmosphere**, with an emphasis on improving measurement accuracy, source attribution, and interpretation of VOC observations in urban environments and wildfire-influenced regions.
 
 **Representative research questions:**
-- How can wildfire emissions and smoke chemistry be represented more accurately in CTMs to reduce biases in simulated air quality?
-- How does smoke composition evolve from fresh plumes to multi-day aged pollution, and which processes control oxidant formation and secondary pollutants?
-- What roles do reactive VOC classes (e.g., furanoids and other oxygenated VOCs) play in O₃ formation and secondary products in smoke-impacted regions?
-- How can chemically resolved wildfire-smoke metrics improve population-scale exposure and health assessment beyond PM₂.₅ mass alone?
+- How can PTR-ToF-MS performance (e.g., sensitivity, fragmentation, humidity dependence) be better characterized to improve quantitative VOC measurements?
+- How do prescribed fire emissions compare to wildfires?
+- How can detailed VOC measurements improve interpretation of atmospheric reactivity and secondary pollutant formation?
+---
+
+## PTR-ToF-MS Instrument Characterization
+A major component of my research is **evaluating and improving PTR-ToF-MS performance for quantitative VOC measurements**, particularly for oxygenated and volatile chemical product (VCP)-related species.
+
+My work includes:
+- Laboratory characterization of **instrument sensitivity, fragmentation patterns, and humidity and E/N dependence** for selected VCP VOCs.
+- Assessment of **isomeric and fragment interferences** and their implications for ambient quantification.
+- Evaluation of uncertainty and detection limits for compounds without direct calibration standards.
+
+This work supports more robust interpretation of PTR-ToF-MS datasets and provides guidance for applying the technique to complex atmospheric mixtures.
 
 ---
 
-## Wildfire Emissions
-I constrain wildfire emissions of VOCs using aircraft observations and complementary measurements, with an emphasis on identifying why models can reproduce some primary tracers (e.g., CO) but still miss key oxygenated VOCs (OVOCs). This work is summarized in my peer-reviewed ACP paper (Jin *et al.*, 2023), which shows that commonly used fire inventories substantially underestimate western U.S. wildfire VOC emissions and that scaling total emissions alone does not fully resolve OVOC biases.
+## Long-term Urban VOC Measurements
+I analyze **multi-year stationary PTR-ToF-MS measurements** collected in Missoula, Montana (2020–2021) to investigate VOC seasonality, source influences, and atmospheric processing in an urban environment.
 
-**What I do in this area:**
-- Use aircraft campaign datasets (e.g., WE-CAN, FIREX-AQ) to constrain emission ratios and evaluate inventory biases.
-- Diagnose whether model–observation gaps are driven by burned area / dry matter burned, emission factors, plume injection, or chemical processing.
-- Provide model-ready emission constraints that improve predictive skill for smoke-impacted air quality.
+Key aspects of this work include:
+- Characterizing seasonal and diurnal patterns of VOCs associated with **biogenic emissions, volatile chemical products, traffic, and biomass burning**.
+- Identifying tracers that enable selective quantification (e.g., benzyl alcohol) and evaluating their utility for source attribution.
+- Assessing relationships between VOCs, criteria pollutants, and meteorological drivers.
 
----
+This dataset provides a rare long-term, high-time-resolution view of urban VOC composition in the western United States.
 
-## Smoke Chemistry
-A key outcome of my Ph.D. research is an observation-constrained framework for understanding **OH–O₃–PAN chemistry in fresh wildfire smoke**, accepted in *Science Advances* (**“Ozone Photochemistry in Fresh Biomass Burning Smoke”**).
-
-In this work, we show that fresh biomass-burning plumes can be chemically intense:
-- **OH peaks at ~5–20 × 10⁶ molecules cm⁻³ in the first 1–2 hours**, largely driven by high HONO early on, with OVOC photolysis and O₃ becoming more important later.
-- Using **chemical age** (integrated OH exposure normalized by an ambient OH reference), we find chemical aging can be **~3–4× faster than physical aging within the first 2 hours**.
-- We diagnose rapid secondary formation early in plume evolution (e.g., **P(O₃) ≈ 4.2 ± 1.5% hr⁻¹** and **P(PAN) ≈ 0.4 ± 0.1% hr⁻¹** during the first hour), with rates slowing down as plumes age.
-- We also show that ozone sensitivity thresholds commonly used for urban air can shift in smoke: we infer an approximate **FNR threshold of ~4–6** separating transient VOC-limited (or transitional) and NOₓ-limited behavior in fresh smoke, with some plumes remaining VOC-limited for roughly the first ~2 hours.
-
-More broadly, this study evaluates how chemical mechanism complexity and VOC representation affect modeled plume evolution, and identifies missing/oversimplified pathways in CTMs that matter for predicting O₃ in fire-impacted regions.
 
 ---
 
-## Mechanism Development and Reactive VOCs
-Wildfire smoke is chemically complex, and many reactive VOCs relevant for oxidant budgets and OVOC formation are simplified or missing in standard mechanisms. A major part of my research is improving chemical mechanisms for wildfire VOCs and quantifying how those improvements change modeled oxidants and secondary products.
+## Mobile Laboratory Measurements of Prescribed Fires
+I conduct **mobile laboratory measurements during prescribed fire events** to quantify real-world emissions of gases and particles from biomass burning.
 
-A specific focus is **furanoids** (furan and substituted furans), which are abundant in biomass-burning emissions and can be important precursors for oxygenated products. I combine:
-- **0-D (box) modeling** for mechanism evaluation and process attribution,
-- **3-D CTM simulations** for regional-to-global impacts,
-- and **observational constraints** to ensure mechanism updates are supported by measurements.
+My contributions include:
+- Deployment of PTR-ToF-MS and supporting instrumentation in a mobile platform during prescribed burns.
+- Derivation of **emission ratios and emission factors** for VOCs, particulate matter, and optical properties.
+- Examination of variability in emissions across fire conditions and burn phases.
 
-This work directly informs simplified but chemically faithful mechanism development for 3-D models, enabling improved representation of wildfire smoke chemistry without prohibitive computational cost.
-
----
-
-## Aged Smoke in Communities: Exposure and Health-Relevant Metrics
-A core motivation of my research is that **community-scale smoke measurements beyond PM₂.₅ are rare**, limiting model evaluation and health interpretation. I study multi-day aged smoke that impacts communities and quantify how smoke alters not only PM₂.₅ but also chemically specific hazardous air pollutants (HAPs) and oxidant-related conditions.
-
-Using the Missoula, Montana 2020 wildfire episode as a case study (submitted to *Atmospheric Chemistry and Physics*: **“Characterizing emissions, chemistry, and health impacts of aged wildfire smoke in a western US city”**), I connect:
-- ground observations (criteria pollutants + speciated VOCs where available),
-- CTM simulations of smoke transport and chemistry,
-- and exposure/risk-relevant indicators (e.g., chronic inhalation risk metrics and noncancer hazard proxies, when appropriate).
-
-This line of work motivates my current postdoctoral focus on developing chemically informed exposure indicators that can be integrated with epidemiological and machine-learning frameworks.
+These measurements help constrain emission inventories and improve understanding of how prescribed fires differ from wildfires in their atmospheric impacts.
 
 ---
 
-If you are interested in collaboration—especially on wildfire smoke emissions, chemistry, observational constraints, CTM development, or exposure/health applications—please feel free to reach out via my [contact page](/contact/).
+## Linking Measurements to Atmospheric Impacts
+Across these projects, I emphasize **measurement-driven interpretation** of atmospheric chemistry. By combining laboratory characterization, stationary observations, and mobile field measurements, my work contributes to improved understanding of VOC sources, emissions, and their roles in atmospheric reactivity.
+
+If you are interested in collaboration—particularly in PTR-ToF-MS measurements, VOC quantification, biomass burning emissions, or field campaign analysis—please feel free to reach out via my [contact page](/contact/).
