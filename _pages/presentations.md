@@ -5,19 +5,11 @@ author_profile: true
 ---
 
 ## Conference Talks
-- **Lu.T** *et al.* (2024): [Global emissions and chemistry of furanoids: 3-D model analysis and constraints from in-situ observations](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1649115). *AGU Fall Meeting, December 2024.*
 
-- **Lu.T** *et al.* (2024): [Global chemical impacts of furanoids: model analysis and constraints from in-situ observations](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1649115). *11th International GEOS-Chem Meeting (IGC11), June 2024.*
+- **Lu.T** *et al.* (2023): [Characterizing ](https://www.epa.gov/system/files/documents/2023-11/0900am_lixu.pdf). *AGU Fall Meeting, December 2023.*
 
-- **Lu.T** *et al.* (2023): [Underestimated Fire Emissions in Inventories: Evidence from Model Simulations and Aircraft Observations](https://www.epa.gov/system/files/documents/2023-11/0900am_lixu.pdf). *EPA Emissions Inventory Conference (EIC), September 2023.*
 
-- **Lu.T** *et al.* (2022): [Constraining VOC emission from western US wildfires with WE-CAN and FIREX-AQ airborne observations](https://jinlx.github.io/files/IGC10_JIN.pdf). *10th International GEOS-Chem Meeting (IGC10), June 2022.*
+## Conference Posters
+- **Lu.T** *et al.* (2024): 
 
-## Posters
-- **L. Jin** *et al.* (2025): [Characterizing Emissions, Chemistry, and Health Impacts of Aged Biomass Burning Smoke in the Wildland–Urban Interface: A Missoula, Montana Case Study](https://agu.confex.com/agu/agu25/meetingapp.cgi/Paper/2001179). *AGU Fall Meeting, December 2025.*
 
-- **Lu.T** *et al.* (2024): [Evaluating Ozone Photochemistry in Biomass Burning Plumes: Insights from Aircraft Campaign Data](https://agu.confex.com/agu/agu24/meetingapp.cgi/Paper/1650491). *AGU Fall Meeting, December 2024.*
-
-- **Lu.T** *et al.* (2022): [Improving Biomass Burning Representation of Volatile Organic Compounds (VOCs) in GEOS-Chem](https://agu.confex.com/agu/fm22/meetingapp.cgi/Paper/1094204). *AGU Fall Meeting, December 2022, Chicago, IL.*
-
-- **L. Jin** *et al.* (2020): [Constraining volatile organic compound emissions from western US wildfires with WE-CAN airborne observations](https://agu.confex.com/agu/fm20/meetingapp.cgi/Paper/765397). *AGU Fall Meeting, December 2020 (virtual).*
