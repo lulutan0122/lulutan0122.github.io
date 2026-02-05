@@ -7,20 +7,16 @@ author_profile: true
 
 {% include base_path %}
 
-###### *Updated date: 1/11/2026*
+###### *Updated date: 2/05/2026*
 ----
 
 <ins>Education</ins>
 ======
-* Ph.D. in Chemistry, University of Montana, 2019–2025
-* B.S. in Atmospheric Science (Honors, top 10%), Lanzhou University, 2015–2019
-* Visiting Student, University of Washington (Seattle), 2018
+* PhD candidate in Chemistry, University of Montana, 2022–present
+* B.S. in Chemical Engineering and Technology, Changsha University of Science and Technology, 2018–2022
 
 <ins>Experience</ins>
 ======
-* 2026–present: Postdoctoral Researcher
-    * Rutgers University
-    * Supervisor: Dr. Xiaomeng Jin
 * 2019–2025: Graduate Research Assistant (Ph.D.)
     * University of Montana, Department of Chemistry and Biochemistry
     * Supervisor: Dr. Lu Hu
@@ -30,13 +26,13 @@ author_profile: true
 
 <ins>Honors and Awards</ins>
 ======
-* 2021 Fall: Fred Shafizadeh Memorial Scholarship
+* 2025: Fred Shafizadeh Memorial Scholarship
     * University of Montana
-* 2019 Fall: Stewart Scholarship
+* 2022: Chemistry Scholarship Award 
     * University of Montana
-* 2019 Fall: Outstanding Graduate Award
-    * Lanzhou University, Lanzhou, China
-* 2016, 2018, 2019 Fall: Excellent Student Scholarship
-    * Lanzhou University, Lanzhou, China
+* 2024 2025: Graduate Doctoral Fellowship
+    * University of Montana
+* 2019, 2020, 2021: Excellent Student Scholarship
+    * Changsha University of Science and Technology, Changsha, China
 
-###### <ins>Updated date: 1/11/2026</ins>
+###### <ins>Updated date: 2/05/2026</ins>
